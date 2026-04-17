@@ -65,12 +65,12 @@ python gui.py
 点击按钮获取数据
 一键生成排行榜
 显示可视化图表
----
+
 ##📊 示例功能
 用户排行榜（按粉丝数排序）
 平均粉丝统计
 柱状图展示用户影响力对比
----
+
 ##🧠 技术要点
 HTTP 请求：requests
 数据结构：list / dict
@@ -78,14 +78,14 @@ HTTP 请求：requests
 数据分析：排序 / 聚合（sum）
 可视化：matplotlib
 图形界面：tkinter
----
+
 ##💼 项目亮点
 实现完整的数据处理流程（获取 → 存储 → 分析 → 展示）
 模块化设计（api / utils / 主程序解耦）
 提供 CLI 与 GUI 两种交互方式
 具备基础数据分析与可视化能力
----
-👤 Author
+
+##👤 Author
 
 This project is built for learning Python, API integration, and data analysis, and serves as a portfolio project demonstrating engineering and analytical skills.
----
+
