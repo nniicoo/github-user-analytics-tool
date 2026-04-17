@@ -28,8 +28,7 @@ github_user_tool/
 ├── data/
 │ └── users.json # 存储用户数据
 
-
----
+```
 
 ## ⚙️ 环境要求
 
