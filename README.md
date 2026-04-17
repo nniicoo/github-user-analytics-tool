@@ -40,8 +40,8 @@ github_user_tool/
 ```bash
 pip install requests matplotlib
 ```
-▶️ 使用方法
-1️⃣ 命令行版本
+- ▶️ 使用方法
+- 1️⃣ 命令行版本
 
 运行：
 ```bash
@@ -49,43 +49,47 @@ python main.py
 ```
 输入 GitHub 用户名（多个用逗号分隔或按提示输入），程序会：
 
-获取数据
-保存 JSON
-输出排行榜
-显示图表
+- 获取数据
+- 保存 JSON
+- 输出排行榜
+- 显示图表
 2️⃣ GUI 图形界面版本（推荐）
 
 运行：
 ```bash
 python gui.py
 ```
-##功能：
+## 功能
 
-输入用户名（如：octocat,torvalds）
-点击按钮获取数据
-一键生成排行榜
-显示可视化图表
+- 输入用户名（如：octocat,torvalds）
+- 点击按钮获取数据
+- 一键生成排行榜
+- 显示可视化图表
 
-##📊 示例功能
-用户排行榜（按粉丝数排序）
-平均粉丝统计
-柱状图展示用户影响力对比
+---
+## 📊 示例功能
+- 用户排行榜（按粉丝数排序）
+- 平均粉丝统计
+- 柱状图展示用户影响力对比
 
-##🧠 技术要点
-HTTP 请求：requests
-数据结构：list / dict
-文件存储：json
-数据分析：排序 / 聚合（sum）
-可视化：matplotlib
-图形界面：tkinter
 
-##💼 项目亮点
-实现完整的数据处理流程（获取 → 存储 → 分析 → 展示）
-模块化设计（api / utils / 主程序解耦）
-提供 CLI 与 GUI 两种交互方式
-具备基础数据分析与可视化能力
+## 🧠 技术要点
+- HTTP 请求：requests
+- 数据结构：list / dict
+- 文件存储：json
+- 数据分析：排序 / 聚合（sum）
+- 可视化：matplotlib
+- 图形界面：tkinter
 
-##👤 Author
 
+## 💼 项目亮点
+- 实现完整的数据处理流程（获取 → 存储 → 分析 → 展示）
+- 模块化设计（api / utils / 主程序解耦）
+- 提供 CLI 与 GUI 两种交互方式
+- 具备基础数据分析与可视化能力
+
+
+
+## 👤 Author
 This project is built for learning Python, API integration, and data analysis, and serves as a portfolio project demonstrating engineering and analytical skills.
 
