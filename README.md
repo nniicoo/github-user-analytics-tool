@@ -18,7 +18,7 @@
 
 ## 🧱 项目结构
 
-
+```bash
 github_user_tool/
 │
 ├── main.py # 命令行版本入口
