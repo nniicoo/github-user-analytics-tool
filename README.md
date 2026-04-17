@@ -39,13 +39,14 @@ github_user_tool/
 
 ```bash
 pip install requests matplotlib
+```
 ▶️ 使用方法
 1️⃣ 命令行版本
 
 运行：
-
+```bash
 python main.py
-
+```
 输入 GitHub 用户名（多个用逗号分隔或按提示输入），程序会：
 
 获取数据
@@ -55,9 +56,9 @@ python main.py
 2️⃣ GUI 图形界面版本（推荐）
 
 运行：
-
+```bash
 python gui.py
-
+```
 ##功能：
 
 输入用户名（如：octocat,torvalds）
